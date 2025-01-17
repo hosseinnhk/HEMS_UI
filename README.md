@@ -1,5 +1,3 @@
-**Home Energy Management System User Interface:**
-
 ## Overview
 In this project, a User Interface is desinged for Home Energy Management System, utilizing the **SquareLine Studio** software and the **LVGL graphical interface library**. The frameware is designed and implemented on a 10-inch display powered by an STM32H7 microcontroller. The hardware is designed by **RIVERDI** company.
 
