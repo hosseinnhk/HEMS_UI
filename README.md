@@ -9,6 +9,8 @@ In this project, a User Interface is desinged for Home Energy Management System,
   - LVGL (Light and Versatile Graphics Library) for graphical rendering
   - STM32H7 microcontroller for high-performance processing
   - Operating System: FreeRTOS
+ 
+![Image](https://github.com/user-attachments/assets/9291dc6d-e4ca-490e-8686-ceee400c2923)
 
 <div style="display: inline-flex; align-items: center;">
   <!-- Video Thumbnail -->
