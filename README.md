@@ -12,12 +12,12 @@ In this project, a User Interface is desinged for Home Energy Management System,
 
 <div style="display: inline-flex; align-items: center;">
   <!-- Video Thumbnail -->
-  <a href="https://www.youtube.com/watch?v=o3UrxQO1nyc" target="_blank" style="display: inline-block;">
-    <img src="https://img.youtube.com/vi/o3UrxQO1nyc/0.jpg" style="width: 100%; display: block;">
+  <a href="https://www.youtube.com/watch?v=yNqvFCuYcsc" target="_blank" style="display: inline-block;">
+    <img src="https://img.youtube.com/vi/yNqvFCuYcsc/0.jpg" style="width: 100%; display: block;">
   </a>
 
   <!-- Play Button -->
-  <a href="https://www.youtube.com//watch?v=o3UrxQO1nyc" target="_blank" style="display: inline-block;">
+  <a href="https://www.youtube.com//watch?v=yNqvFCuYcsc" target="_blank" style="display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" 
          style="width: 50px; height: auto; margin-left: 5px;">
   </a>
